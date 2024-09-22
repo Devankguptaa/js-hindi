@@ -40,3 +40,20 @@ console.log(typeof bigNumber)
 console.log(typeof outsideTemp)
 console.log(typeof myFunction)
 
+
+
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ // Stack(Primitve) , Heap (Non-Primitive)
+
+let myYoutube ="Hiteshchaudhary"
+
+let anothername = myYoutube
+anothername = "chaiaurcode"
+
+console.log(anothername)
+console.log(myYoutube)
+
+
+
+
+
